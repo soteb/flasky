@@ -1,3 +1,5 @@
+# 个人注译版本
+
 import os
 from dotenv import load_dotenv
 
